@@ -1,6 +1,4 @@
-### Hello World 👋
-### This is MysTic_Zhong Github Page.
-
+### Hello World,This is MysTic_Zhong Github Page. 👋
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=mysticzhong)]()
 
@@ -22,11 +20,9 @@
 ### 💬 Contact to me
 
 > **牛客:** https://www.nowcoder.com/profile/160703765
+> 
+> **掘金:** https://juejin.cn/user/1196723307810861/posts
 >
 > **GitHub:** https://github.com/mysticzhong
 >
-> **掘金:** https://juejin.cn/user/1196723307810861/posts
->
 > **IMDB:** https://www.imdb.com/user/ur67107036/
->
-
