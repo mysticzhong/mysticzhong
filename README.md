@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hello World 👋
+### This is MysTic_Zhong Github Page.
 
-<!--
-**mysticzhong/mysticzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=mysticzhong)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> PHP,PYTHON开发,偶尔玩玩Linux。🔭
+>
+> 准备学学Go,毕竟是未来方向。👯
+>
+> 喜欢看体育，篮球足球斯诺克网球都看，最爱的球队就是皇马和湖人啦！🌱
+>
+> Also喜欢看电影，电视剧，特别是侦探推理类型。🤔
+> 
+> 股票基金也时不时炒炒，虽然并没有能让我财富自由。😄
+
+### ⚡ Label:
+
+`php`  `mysql`  `python`  `redis`  `柯南`  `皇马`
+
+
+### 💬 Contact to me
+
+> **牛客:** https://www.nowcoder.com/profile/160703765
+>
+> **GitHub:** https://github.com/mysticzhong
+>
+> **掘金:** https://juejin.cn/user/1196723307810861/posts
+>
+> **IMDB:** https://www.imdb.com/user/ur67107036/
+>
+
