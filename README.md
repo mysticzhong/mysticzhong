@@ -26,3 +26,6 @@
 > **GitHub:** https://github.com/mysticzhong
 >
 > **IMDB:** https://www.imdb.com/user/ur67107036/
+>
+> **网易云音乐:** https://music.163.com/#/user/home?id=512835397
+
