@@ -2,7 +2,7 @@
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=mysticzhong)]()
 
-> Go,PHP,Python开发 🔭
+> Go, PHP, Python开发 🔭
 >
 > 偶尔玩玩Linux 👯
 >
